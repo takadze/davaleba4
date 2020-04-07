@@ -1,0 +1,171 @@
+.bacgraund{
+	
+}
+
+.navigation{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	justify-content: center;
+    align-items: center;
+}
+.logo{
+	height: 70px;
+}
+.log{
+	text-decoration: none;
+	justify-content: center;
+    align-items: center;
+	font-size: 25px;
+	margin-right: : 330px;
+	
+}
+.log1{
+	height: 40px;
+	margin-top: 15px;
+}
+.nav{
+	text-decoration: none;
+	margin-left: 330px;
+
+}
+.nava{
+	text-decoration: none;
+	margin-left: 30px;
+	font-size: 17px;
+}
+
+
+.hp{
+	max-width: 570px;
+	
+	margin: 0 auto;
+	padding-top: 15px;
+	color: red;
+}
+.h1{
+	font-size: 55px;
+	letter-spacing: -0.015em;
+	text-align: center;
+}
+.p{
+	font-size: 27px;
+	padding-top: 20px;
+	text-align: center;
+}
+.social{
+	max-width: 350px;
+	height: 50px;
+	margin: 0 auto;
+	padding-top: 50px;
+	text-align: center;
+}
+.fb{
+	font-size: 30px;
+	border-radius: 100px;
+	text-align: center;
+	background-color: #222326;
+	padding: 13px;
+	margin-left: 20px;
+	color: white;
+}
+.fbb{
+	font-size: 30px;
+	background-color: #222326;
+	border-radius: 100px;
+	padding: 13px 17px;
+	margin-left: 20px;
+	color: white;
+}
+.txt{
+	max-width: 900px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 90px;
+
+}
+.txt1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: 900;
+    letter-spacing: -0.015em;
+    line-height: 1.3;
+}
+
+.fotoconteiner{
+	display: flex;
+	max-width: 900px;
+	height: 400px;
+	
+	margin: 0 auto;
+}
+
+.foto{
+	height: 135px;
+}
+.yuti{
+	padding-right: 30px;
+}
+.fotoh3{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	margin-top: 10px;
+}
+.fotop{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.black{
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 950px;
+	background-color: black;
+	height: 500px;
+	margin: 0 auto;
+	padding-top: 40px;
+
+}
+  
+.blcklogo1{
+	height: 40px;
+}
+.blcklogo2{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+.blck1{
+	margin: 0 auto;
+	
+	
+}
+.blck2{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	
+}
+.blck3{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	
+}
+.blck4{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+
+	
+}
+.a{
+	padding-top: 25px;
+	text-decoration: none;
+	color: white;
+}
+.jaba{
+	max-width: 100%;
+	background-color: black;
+}
